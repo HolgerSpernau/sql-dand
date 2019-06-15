@@ -1,16 +1,27 @@
 # Comparison on temperature of Suzhou, P. R. China to world average using SQL
 
-# Description
+## Table of contents
+* [Description](#description)
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Creator](#creator)
+* [More information](#more-information)
+
+## Description
 In this project the focus was on using SQL to extract temperature data of a city of current residence and comnpare it to the world average temperature.
 
-# Installation
+## Installation
 Simply fork the repository.
 
-# Usage
+## Usage
 Have a look at my findings on the temperature in Suzhou vs world temperature.
 
-# License
+## License
 All rights reserved.
 
-# More information
+## Creator
+[Holger Spernau](https://github.com/holgerspernau)
+
+## More information
 SQL project of the Data Analyst Nanodegree of Udacity.
